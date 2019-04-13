@@ -40,3 +40,13 @@ h1 {
 */
 
 /* Your CSS code goes here */
+
+/* Colors */
+:root {
+	--blue: #19a4d8;
+	--green: #00be1c;
+	--orange: #f15e33;
+	--black: #424242;
+	--grey: #777;
+	--light-grey: #dcdcdc;
+}
