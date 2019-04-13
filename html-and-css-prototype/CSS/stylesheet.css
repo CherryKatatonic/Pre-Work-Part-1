@@ -159,3 +159,11 @@ p {
 	border: 1px solid #7cff8f;
 	text-shadow: 0px 0px 2px white;
 }
+
+input {
+	padding: 1em;
+	font-size: 1em;
+	font-weight: bold;
+	border-radius: 4px;
+	transition: .5s;
+}
