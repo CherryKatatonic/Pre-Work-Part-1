@@ -42,6 +42,10 @@ h1 {
 
 /* Your CSS code goes here */
 
+p {
+	margin-bottom: 1em;
+}
+
 /* Colors */
 :root {
 	--blue: #19a4d8;
