@@ -110,7 +110,7 @@ a {
 }
 .speech-bubble-top:after {
 	bottom: 0;
-	left: 50%;
+	left: 87%;
 	border-left-width: 8px;
 	border-right-width: 8px;
 	border-bottom: 0;
@@ -127,7 +127,7 @@ a {
 }
 .completion-bar-fill {
 	background-color: var(--orange);
-	width: 50%;
+	width: 75%;
 	height: 22px;
 	border-radius: 2px;
 }
