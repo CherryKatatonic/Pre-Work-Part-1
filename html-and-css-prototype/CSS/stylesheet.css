@@ -49,6 +49,9 @@ p {
 a {
 	text-decoration: none;
 }
+a:hover, a:focus {
+	text-decoration: underline;
+}
 
 /* Colors */
 :root {
@@ -61,6 +64,9 @@ a {
 }
 .text-white {
 	color: white;
+}
+.text-light {
+	color: var(--light-grey);
 }
 .text-orange {
 	color: var(--orange);
@@ -137,6 +143,7 @@ a {
 	border: 2px solid var(--light-grey);
 	border-radius: 2px;
 	padding: 1.5em;
+	padding-top: 1em;
 	color: var(--grey);
 	text-align: left;
 	font-size: 1.5em;
@@ -157,7 +164,7 @@ a {
 
 .btn {
 	padding: .75em 1em;
-    font-size: 1.25em;
+  font-size: 1.25em;
 	font-weight: bold;
 	border-radius: 4px;
 	cursor: pointer;
