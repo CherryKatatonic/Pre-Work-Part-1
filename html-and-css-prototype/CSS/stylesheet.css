@@ -112,7 +112,6 @@ a:hover, a:focus {
 
 .speech-bubble-top {
 	font-size: 1.75em;
-	white-space: nowrap;
 }
 .speech-bubble-top:after {
 	bottom: 0;
