@@ -51,9 +51,11 @@ h1 {
 	--grey: #777;
 	--light-grey: #eaeaea;
 }
-
 .text-white {
 	color: white;
+}
+.text-orange {
+	color: var(--orange);
 }
 
 .flex-column {
@@ -112,4 +114,12 @@ h1 {
 	width: 50%;
 	height: 20px;
 	border-radius: 2px;
+}
+
+.donate-panel {
+	width: 100%;
+	border: 2px solid var(--light-grey);
+	border-radius: 2px;
+	padding: 1.5em;
+	color: var(--grey);
 }
